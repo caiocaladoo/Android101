@@ -8,6 +8,8 @@ Every new event, for a new orientation, the app will throw a notification for th
 ![Portrait position]
 (http://i.imgur.com/EPMcVAf.png?1)
 
-[Imgur](http://i.imgur.com/kA4pyRe.png?1)
+![Landscape position]
+(http://i.imgur.com/kA4pyRe.png?1)
 
-[Imgur](http://i.imgur.com/FGnN5Ah.png?1)
+![Notification]
+(http://i.imgur.com/FGnN5Ah.png?1)
