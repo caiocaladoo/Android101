@@ -5,7 +5,8 @@ The user can see the rotation of his/her device by the image that it's display i
 
 Every new event, for a new orientation, the app will throw a notification for the user telling that device's orientation has changed.
 
-[Imgur](http://i.imgur.com/EPMcVAf.png?1)
+![Portrait position]
+(http://i.imgur.com/EPMcVAf.png?1)
 
 [Imgur](http://i.imgur.com/kA4pyRe.png?1)
 
